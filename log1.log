@@ -1,0 +1,31 @@
+NETBEGIN 1
+CLUBEGIN 1
+PERBEGIN 1
+CLSBEGIN 1
+HIEBEGIN 1
+VECBEGIN 1
+
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\dataset\pajek\toy_example.clu
+C 1 RDC "Z:\home\castamere\code\datamining\hw3\dataset\pajek\toy_example.clu" (6)
+Msg Reading Network   ---    Z:\home\castamere\code\datamining\hw3\dataset\pajek\attweb_net.net
+N 1 RDN "Z:\home\castamere\code\datamining\hw3\dataset\pajek\attweb_net.net" (180)
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\att_1.clu
+C 2 RDC "Z:\home\castamere\code\datamining\hw3\att_1.clu" (180)
+E 1 DRAW 0 0 0 0 0
+E 1 DRAW 2 0 0 0 0
+E 1 DRAW 2 0 0 0 0
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\att_1.clu
+C 3 RDC "Z:\home\castamere\code\datamining\hw3\att_1.clu" (180)
+E 1 DRAW 3 0 0 0 0
+E 1 DRAW 3 0 0 0 0
+E 1 KAMADA
+E 1 ROT3D 0.577 0.577 0.577 90 2.000
+E 1 ROT3D 0.577 0.577 0.577 360 2.000
+E 1 DRAW 3 0 0 0 0
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\att_1.clu
+C 4 RDC "Z:\home\castamere\code\datamining\hw3\att_1.clu" (180)
+Msg Reading Network   ---    Z:\home\castamere\code\datamining\hw3\dataset\pajek\attweb_net.net
+N 2 RDN "Z:\home\castamere\code\datamining\hw3\dataset\pajek\attweb_net.net" (180)
+E 2 DRAW 4 0 0 0 0
+E 2 KAMADA
+E 2 JPEG 4 0 0 0 0 "Z:\home\castamere\code\datamining\hw3\att.jpg" 100 0
