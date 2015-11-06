@@ -1,109 +1,109 @@
 ..:: AT & T dataset ::..
-M = 2 , R = 1.1 : # of clusters ==>  01 , Iterations: 45
-M = 2 , R = 1.3 : # of clusters ==>  03 , Iterations: 31
-M = 2 , R = 1.5 : # of clusters ==>  07 , Iterations: 22
-M = 2 , R = 1.7 : # of clusters ==>  10 , Iterations: 18
-M = 2 , R = 1.9 : # of clusters ==>  55 , Iterations: 15
-M = 2 , R = 2.0 : # of clusters ==>  55 , Iterations: 14
+M = 2, R = 1.1 : # of clusters ==>  01, Iterations: 45
+M = 2, R = 1.3 : # of clusters ==>  03, Iterations: 31
+M = 2, R = 1.5 : # of clusters ==>  07, Iterations: 22
+M = 2, R = 1.7 : # of clusters ==>  10, Iterations: 18
+M = 2, R = 1.9 : # of clusters ==>  55, Iterations: 15
+M = 2, R = 2.0 : # of clusters ==>  55, Iterations: 14
 
-M = 3 , R = 1.1 : # of clusters ==>  01 , Iterations: 48
-M = 3 , R = 1.3 : # of clusters ==>  01 , Iterations: 14
-M = 3 , R = 1.5 : # of clusters ==>  03 , Iterations: 20
-M = 3 , R = 1.7 : # of clusters ==>  06 , Iterations: 17
-M = 3 , R = 1.9 : # of clusters ==>  06 , Iterations: 18
-M = 3 , R = 2.0 : # of clusters ==>  08 , Iterations: 13
+M = 3, R = 1.1 : # of clusters ==>  01, Iterations: 48
+M = 3, R = 1.3 : # of clusters ==>  01, Iterations: 14
+M = 3, R = 1.5 : # of clusters ==>  03, Iterations: 20
+M = 3, R = 1.7 : # of clusters ==>  06, Iterations: 17
+M = 3, R = 1.9 : # of clusters ==>  06, Iterations: 18
+M = 3, R = 2.0 : # of clusters ==>  08, Iterations: 13
 
-M = 4 , R = 1.1 : # of clusters ==>  01 , Iterations: 49
-M = 4 , R = 1.3 : # of clusters ==>  01 , Iterations: 16
-M = 4 , R = 1.5 : # of clusters ==>  01 , Iterations: 9
-M = 4 , R = 1.7 : # of clusters ==>  02 , Iterations: 13
-M = 4 , R = 1.9 : # of clusters ==>  06 , Iterations: 15
-M = 4 , R = 2.0 : # of clusters ==>  06 , Iterations: 11
+M = 4, R = 1.1 : # of clusters ==>  01, Iterations: 49
+M = 4, R = 1.3 : # of clusters ==>  01, Iterations: 16
+M = 4, R = 1.5 : # of clusters ==>  01, Iterations: 9
+M = 4, R = 1.7 : # of clusters ==>  02, Iterations: 13
+M = 4, R = 1.9 : # of clusters ==>  06, Iterations: 15
+M = 4, R = 2.0 : # of clusters ==>  06, Iterations: 11
 
-M = 5 , R = 1.1 : # of clusters ==>  01 , Iterations: 50
-M = 5 , R = 1.3 : # of clusters ==>  01 , Iterations: 17
-M = 5 , R = 1.5 : # of clusters ==>  01 , Iterations: 10
-M = 5 , R = 1.7 : # of clusters ==>  01 , Iterations: 8
-M = 5 , R = 1.9 : # of clusters ==>  04 , Iterations: 11
-M = 5 , R = 2.0 : # of clusters ==>  04 , Iterations: 16
+M = 5, R = 1.1 : # of clusters ==>  01, Iterations: 50
+M = 5, R = 1.3 : # of clusters ==>  01, Iterations: 17
+M = 5, R = 1.5 : # of clusters ==>  01, Iterations: 10
+M = 5, R = 1.7 : # of clusters ==>  01, Iterations: 8
+M = 5, R = 1.9 : # of clusters ==>  04, Iterations: 11
+M = 5, R = 2.0 : # of clusters ==>  04, Iterations: 16
 
-M = 6 , R = 1.1 : # of clusters ==>  01 , Iterations: 50
-M = 6 , R = 1.3 : # of clusters ==>  01 , Iterations: 17
-M = 6 , R = 1.5 : # of clusters ==>  01 , Iterations: 10
-M = 6 , R = 1.7 : # of clusters ==>  01 , Iterations: 8
-M = 6 , R = 1.9 : # of clusters ==>  01 , Iterations: 10
-M = 6 , R = 2.0 : # of clusters ==>  02 , Iterations: 10
+M = 6, R = 1.1 : # of clusters ==>  01, Iterations: 50
+M = 6, R = 1.3 : # of clusters ==>  01, Iterations: 17
+M = 6, R = 1.5 : # of clusters ==>  01, Iterations: 10
+M = 6, R = 1.7 : # of clusters ==>  01, Iterations: 8
+M = 6, R = 1.9 : # of clusters ==>  01, Iterations: 10
+M = 6, R = 2.0 : # of clusters ==>  02, Iterations: 10
 
 
 ..:: Physics collaboration dataset ::..
-M = 2 , R = 1.1 : # of clusters ==>  01 , Iterations: 47
-M = 2 , R = 1.3 : # of clusters ==>  07 , Iterations: 26
-M = 2 , R = 1.5 : # of clusters ==>  14 , Iterations: 20
-M = 2 , R = 1.7 : # of clusters ==>  20 , Iterations: 14
-M = 2 , R = 1.9 : # of clusters ==>  25 , Iterations: 16
-M = 2 , R = 2.0 : # of clusters ==>  25 , Iterations: 16
+M = 2, R = 1.1 : # of clusters ==>  01, Iterations: 47
+M = 2, R = 1.3 : # of clusters ==>  07, Iterations: 26
+M = 2, R = 1.5 : # of clusters ==>  14, Iterations: 20
+M = 2, R = 1.7 : # of clusters ==>  20, Iterations: 14
+M = 2, R = 1.9 : # of clusters ==>  25, Iterations: 16
+M = 2, R = 2.0 : # of clusters ==>  25, Iterations: 16
 
-M = 3 , R = 1.1 : # of clusters ==>  01 , Iterations: 44
-M = 3 , R = 1.3 : # of clusters ==>  02 , Iterations: 20
-M = 3 , R = 1.5 : # of clusters ==>  06 , Iterations: 23
-M = 3 , R = 1.7 : # of clusters ==>  10 , Iterations: 14
-M = 3 , R = 1.9 : # of clusters ==>  12 , Iterations: 13
-M = 3 , R = 2.0 : # of clusters ==>  14 , Iterations: 17
+M = 3, R = 1.1 : # of clusters ==>  01, Iterations: 44
+M = 3, R = 1.3 : # of clusters ==>  02, Iterations: 20
+M = 3, R = 1.5 : # of clusters ==>  06, Iterations: 23
+M = 3, R = 1.7 : # of clusters ==>  10, Iterations: 14
+M = 3, R = 1.9 : # of clusters ==>  12, Iterations: 13
+M = 3, R = 2.0 : # of clusters ==>  14, Iterations: 17
 
-M = 4 , R = 1.1 : # of clusters ==>  01 , Iterations: 43
-M = 4 , R = 1.3 : # of clusters ==>  01 , Iterations: 21
-M = 4 , R = 1.5 : # of clusters ==>  03 , Iterations: 18
-M = 4 , R = 1.7 : # of clusters ==>  06 , Iterations: 18
-M = 4 , R = 1.9 : # of clusters ==>  09 , Iterations: 17
-M = 4 , R = 2.0 : # of clusters ==>  09 , Iterations: 11
+M = 4, R = 1.1 : # of clusters ==>  01, Iterations: 43
+M = 4, R = 1.3 : # of clusters ==>  01, Iterations: 21
+M = 4, R = 1.5 : # of clusters ==>  03, Iterations: 18
+M = 4, R = 1.7 : # of clusters ==>  06, Iterations: 18
+M = 4, R = 1.9 : # of clusters ==>  09, Iterations: 17
+M = 4, R = 2.0 : # of clusters ==>  09, Iterations: 11
 
-M = 5 , R = 1.1 : # of clusters ==>  01 , Iterations: 43
-M = 5 , R = 1.3 : # of clusters ==>  01 , Iterations: 20
-M = 5 , R = 1.5 : # of clusters ==>  02 , Iterations: 13
-M = 5 , R = 1.7 : # of clusters ==>  03 , Iterations: 14
-M = 5 , R = 1.9 : # of clusters ==>  06 , Iterations: 18
-M = 5 , R = 2.0 : # of clusters ==>  08 , Iterations: 12
+M = 5, R = 1.1 : # of clusters ==>  01, Iterations: 43
+M = 5, R = 1.3 : # of clusters ==>  01, Iterations: 20
+M = 5, R = 1.5 : # of clusters ==>  02, Iterations: 13
+M = 5, R = 1.7 : # of clusters ==>  03, Iterations: 14
+M = 5, R = 1.9 : # of clusters ==>  06, Iterations: 18
+M = 5, R = 2.0 : # of clusters ==>  08, Iterations: 12
 
-M = 6 , R = 1.1 : # of clusters ==>  01 , Iterations: 43
-M = 6 , R = 1.3 : # of clusters ==>  01 , Iterations: 18
-M = 6 , R = 1.5 : # of clusters ==>  02 , Iterations: 13
-M = 6 , R = 1.7 : # of clusters ==>  03 , Iterations: 14
-M = 6 , R = 1.9 : # of clusters ==>  05 , Iterations: 16
-M = 6 , R = 2.0 : # of clusters ==>  05 , Iterations: 11
+M = 6, R = 1.1 : # of clusters ==>  01, Iterations: 43
+M = 6, R = 1.3 : # of clusters ==>  01, Iterations: 18
+M = 6, R = 1.5 : # of clusters ==>  02, Iterations: 13
+M = 6, R = 1.7 : # of clusters ==>  03, Iterations: 14
+M = 6, R = 1.9 : # of clusters ==>  05, Iterations: 16
+M = 6, R = 2.0 : # of clusters ==>  05, Iterations: 11
 
 
 ..:: Yeast metabolic dataset ::..
-M = 2 , R = 1.1 : # of clusters ==>  01 , Iterations: 48
-M = 2 , R = 1.3 : # of clusters ==>  22 , Iterations: 34
-M = 2 , R = 1.5 : # of clusters ==>  52 , Iterations: 35
-M = 2 , R = 1.7 : # of clusters ==>  84 , Iterations: 28
-M = 2 , R = 1.9 : # of clusters ==>  105 , Iterations: 30
-M = 2 , R = 2.0 : # of clusters ==>  116 , Iterations: 29
+M = 2, R = 1.1 : # of clusters ==>  01, Iterations: 48
+M = 2, R = 1.3 : # of clusters ==>  22, Iterations: 34
+M = 2, R = 1.5 : # of clusters ==>  52, Iterations: 35
+M = 2, R = 1.7 : # of clusters ==>  84, Iterations: 28
+M = 2, R = 1.9 : # of clusters ==>  105, Iterations: 30
+M = 2, R = 2.0 : # of clusters ==>  116, Iterations: 29
 
-M = 3 , R = 1.1 : # of clusters ==>  02 , Iterations: 51
-M = 3 , R = 1.3 : # of clusters ==>  04 , Iterations: 44
-M = 3 , R = 1.5 : # of clusters ==>  19 , Iterations: 32
-M = 3 , R = 1.7 : # of clusters ==>  42 , Iterations: 19
-M = 3 , R = 1.9 : # of clusters ==>  50 , Iterations: 20
-M = 3 , R = 2.0 : # of clusters ==>  53 , Iterations: 21
+M = 3, R = 1.1 : # of clusters ==>  02, Iterations: 51
+M = 3, R = 1.3 : # of clusters ==>  04, Iterations: 44
+M = 3, R = 1.5 : # of clusters ==>  19, Iterations: 32
+M = 3, R = 1.7 : # of clusters ==>  42, Iterations: 19
+M = 3, R = 1.9 : # of clusters ==>  50, Iterations: 20
+M = 3, R = 2.0 : # of clusters ==>  53, Iterations: 21
 
-M = 4 , R = 1.1 : # of clusters ==>  02 , Iterations: 51
-M = 4 , R = 1.3 : # of clusters ==>  01 , Iterations: 15
-M = 4 , R = 1.5 : # of clusters ==>  09 , Iterations: 21
-M = 4 , R = 1.7 : # of clusters ==>  20 , Iterations: 21
-M = 4 , R = 1.9 : # of clusters ==>  32 , Iterations: 16
-M = 4 , R = 2.0 : # of clusters ==>  38 , Iterations: 14
+M = 4, R = 1.1 : # of clusters ==>  02, Iterations: 51
+M = 4, R = 1.3 : # of clusters ==>  01, Iterations: 15
+M = 4, R = 1.5 : # of clusters ==>  09, Iterations: 21
+M = 4, R = 1.7 : # of clusters ==>  20, Iterations: 21
+M = 4, R = 1.9 : # of clusters ==>  32, Iterations: 16
+M = 4, R = 2.0 : # of clusters ==>  38, Iterations: 14
 
-M = 5 , R = 1.1 : # of clusters ==>  01 , Iterations: 51
-M = 5 , R = 1.3 : # of clusters ==>  01 , Iterations: 19
-M = 5 , R = 1.5 : # of clusters ==>  05 , Iterations: 19
-M = 5 , R = 1.7 : # of clusters ==>  10 , Iterations: 23
-M = 5 , R = 1.9 : # of clusters ==>  20 , Iterations: 23
-M = 5 , R = 2.0 : # of clusters ==>  23 , Iterations: 16
+M = 5, R = 1.1 : # of clusters ==>  01, Iterations: 51
+M = 5, R = 1.3 : # of clusters ==>  01, Iterations: 19
+M = 5, R = 1.5 : # of clusters ==>  05, Iterations: 19
+M = 5, R = 1.7 : # of clusters ==>  10, Iterations: 23
+M = 5, R = 1.9 : # of clusters ==>  20, Iterations: 23
+M = 5, R = 2.0 : # of clusters ==>  23, Iterations: 16
 
-M = 6 , R = 1.1 : # of clusters ==>  01 , Iterations: 48
-M = 6 , R = 1.3 : # of clusters ==>  01 , Iterations: 21
-M = 6 , R = 1.5 : # of clusters ==>  04 , Iterations: 16
-M = 6 , R = 1.7 : # of clusters ==>  09 , Iterations: 19
-M = 6 , R = 1.9 : # of clusters ==>  14 , Iterations: 20
-M = 6 , R = 2.0 : # of clusters ==>  19 , Iterations: 14
+M = 6, R = 1.1 : # of clusters ==>  01, Iterations: 48
+M = 6, R = 1.3 : # of clusters ==>  01, Iterations: 21
+M = 6, R = 1.5 : # of clusters ==>  04, Iterations: 16
+M = 6, R = 1.7 : # of clusters ==>  09, Iterations: 19
+M = 6, R = 1.9 : # of clusters ==>  14, Iterations: 20
+M = 6, R = 2.0 : # of clusters ==>  19, Iterations: 14
