@@ -15,3 +15,48 @@ C 2 RDC "Z:\home\castamere\code\datamining\hw3\output\yeast\M6_R15.clu" (359)
 E 1 DRAW 2 0 0 0 0
 E 1 KAMADA
 E 1 JPEG 2 0 0 0 0 "Z:\home\castamere\code\datamining\hw3\output\yeast_m6_r15.jpg" 100 0
+E 1 DRAW 0 0 0 0 0
+Msg Reading Network   ---    Z:\home\castamere\code\datamining\hw3\dataset\pajek\physics_collaboration_net.net
+N 2 RDN "Z:\home\castamere\code\datamining\hw3\dataset\pajek\physics_collaboration_net.net" (142)
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\output\physics\M3_R13.clu
+C 3 RDC "Z:\home\castamere\code\datamining\hw3\output\physics\M3_R13.clu" (142)
+E 2 DRAW 3 0 0 0 0
+E 2 KAMADA
+E 2 JPEG 3 0 0 0 0 "Z:\home\castamere\code\datamining\hw3\output\physics_m3_r13.jpg" 100 0
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\output\att\M4_R17.clu
+C 4 RDC "Z:\home\castamere\code\datamining\hw3\output\att\M4_R17.clu" (180)
+Msg Reading Network   ---    Z:\home\castamere\code\datamining\hw3\dataset\pajek\attweb_net.net
+N 3 RDN "Z:\home\castamere\code\datamining\hw3\dataset\pajek\attweb_net.net" (180)
+E 3 DRAW 4 0 0 0 0
+E 3 KAMADA
+E 3 JPEG 4 0 0 0 0 "Z:\home\castamere\code\datamining\hw3\output\att_m4_r17.jpg" 100 0
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\output\physics\M3_R13.clu
+C 5 RDC "Z:\home\castamere\code\datamining\hw3\output\physics\M3_R13.clu" (142)
+Msg Reading Network   ---    Z:\home\castamere\code\datamining\hw3\dataset\pajek\physics_collaboration_net.net
+N 4 RDN "Z:\home\castamere\code\datamining\hw3\dataset\pajek\physics_collaboration_net.net" (142)
+E 4 DRAW 5 0 0 0 0
+E 4 KAMADA
+E 4 JPEG 5 0 0 0 0 "Z:\home\castamere\code\datamining\hw3\output\physics_m3_r13.jpg" 100 0
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\output\physics\M3_R15.clu
+C 6 RDC "Z:\home\castamere\code\datamining\hw3\output\physics\M3_R15.clu" (142)
+E 4 DRAW 6 0 0 0 0
+E 4 KAMADA
+E 4 KAMADA
+E 4 KAMADA
+E 4 JPEG 6 0 0 0 0 "Z:\home\castamere\code\datamining\hw3\output\physics_m3_r15.jpg" 100 0
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\output\att\M3_R17.clu
+C 7 RDC "Z:\home\castamere\code\datamining\hw3\output\att\M3_R17.clu" (180)
+Msg Reading Network   ---    Z:\home\castamere\code\datamining\hw3\dataset\pajek\attweb_net.net
+N 5 RDN "Z:\home\castamere\code\datamining\hw3\dataset\pajek\attweb_net.net" (180)
+E 5 DRAW 7 0 0 0 0
+E 5 KAMADA
+E 5 KAMADA
+E 5 JPEG 7 0 0 0 0 "Z:\home\castamere\code\datamining\hw3\output\att_m3_r17.jpg" 100 0
+Msg Reading Network   ---    Z:\home\castamere\code\datamining\hw3\dataset\pajek\yeast_undirected_metabolic.net
+N 6 RDN "Z:\home\castamere\code\datamining\hw3\dataset\pajek\yeast_undirected_metabolic.net" (359)
+Msg Reading Partition   ---    Z:\home\castamere\code\datamining\hw3\output\yeast\M6_R15.clu
+C 8 RDC "Z:\home\castamere\code\datamining\hw3\output\yeast\M6_R15.clu" (359)
+E 6 DRAW 8 0 0 0 0
+E 6 KAMADA
+E 6 KAMADA
+E 6 JPEG 8 0 0 0 0 "Z:\home\castamere\code\datamining\hw3\output\yeast_m6_r15.jpg" 100 0
